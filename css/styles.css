@@ -33,3 +33,16 @@ img{
  .bro{
    background-color: red;
  }
+ .pu:hover{
+   color: red;
+   text-decoration: none;
+ }
+ .pu,.ho,.co{
+   text-decoration: none;
+ }.ho:hover{
+   color: red;
+   text-decoration: none;
+ }.co:hover{
+   color: red;
+   text-decoration: none;
+ }
